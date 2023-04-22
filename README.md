@@ -1,6 +1,6 @@
 # Testing estático
 
- El objetivo de este repositorio es poder entender la base de cómo las herramientas de análisis estaticos están implementadas. 
+ El objetivo de este repositorio es poder entender la base de cómo las herramientas de análisis estático están implementadas. 
  
  Se crearon archivos con el objetivo de crear reglas de revisión de código fuente automática y personalizada. Reglas básicas implementadas:
  
@@ -17,6 +17,6 @@
     - python analyze.py
   - Para realizar transformaciones asociadas a los archivos de código en la carpeta input-code:
     - python transform.py
-    - el comando anterior crear los nuevos archivos transformados dentro de la carpeta transformed-code
+    - el comando anterior creará los nuevos archivos transformados dentro de la carpeta transformed-code
  
  
